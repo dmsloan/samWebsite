@@ -5,6 +5,11 @@ body {
     background-image: url("../images/SamWalkingAccrossBridgeAtCatchumaLake.jpg");
     background-repeat: no-repeat;
     background-size: contain;
-    border: 1px solid rgb(67, 39, 145);
-    color: white;
+    border: 1px solid red;
+}
+
+h1 {
+    background-color: gray;
+    color: black;
+    text-align: center;
 }
